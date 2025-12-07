@@ -2,7 +2,7 @@
 
 A lightweight command-line application for tracking personal expenses, built with Go. Simple, fast, and no database required—just a JSON file and your terminal.
 
-[Project Url](https://github.com/ayoblt/expense-tracker)
+[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 ## Features
 
 - **Add expenses** with descriptions and amounts
