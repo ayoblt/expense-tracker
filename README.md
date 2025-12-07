@@ -213,4 +213,4 @@ Potential future enhancements:
 
 ## Acknowledgments
 
-This project was inspired by the need for a simple, terminal-based expense tracker that doesn't require complex setup or external databases.
+This project was inspired [roadmap.sh](https://roadmap.sh/projects/expense-tracker) and also by the need for a simple, terminal-based expense tracker that doesn't require complex setup or external databases.
