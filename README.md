@@ -2,7 +2,7 @@
 
 A lightweight command-line application for tracking personal expenses, built with Go. Simple, fast, and no database required—just a JSON file and your terminal.
 
-[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
+[https://roadmap.sh/projects/expense-tracker](https://roadmap.sh/projects/expense-tracker)
 ## Features
 
 - **Add expenses** with descriptions and amounts
